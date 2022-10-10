@@ -1,0 +1,18 @@
+.nav {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+/*임시로 한 것*/
+
+.nav_genres {
+  display: flex;
+  flex-direction: row;
+}
+/*임시로 한 것*/
+
+.nav_genres h1 {
+  margin: 10px;
+}
+/*임시로 한 것*/
